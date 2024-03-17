@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/music-app/static/css/main.93f33752.css",
+    "main.js": "/music-app/static/js/main.13cedfc4.js",
+    "static/media/Kanit-Regular.ttf": "/music-app/static/media/Kanit-Regular.f3bae13d78ced30b6ea3.ttf",
+    "index.html": "/music-app/index.html",
+    "main.93f33752.css.map": "/music-app/static/css/main.93f33752.css.map",
+    "main.13cedfc4.js.map": "/music-app/static/js/main.13cedfc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93f33752.css",
+    "static/js/main.13cedfc4.js"
+  ]
+}
