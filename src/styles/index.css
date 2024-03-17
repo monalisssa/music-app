@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Kanit-Regular";
+    src: url("fonts/Kanit-Regular.ttf");
+}
+
+body{
+    font-family: "Kanit-Regular", sans-serif;
+}
+
+button{
+    background-color: #23282B;
+    padding: 0.5rem;
+    border-radius: 1.5rem;
+    min-width: 5rem;
+    transition: all .3s;
+
+}
+
+button:hover{
+    background-color: #9400D3;
+    transform: scale(1.1);
+}
+
+
+tr th, tr td{
+    padding: 0.5rem;
+}
+.tracks-table{
+    max-height: 80%;
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+
