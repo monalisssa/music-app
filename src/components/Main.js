@@ -20,7 +20,6 @@ const Main = ({setValue, tracks}) => {
         setTrackPage(track)
     }
 
-
     useEffect(() => {
         const token = localStorage.getItem('token');
         setSearch_tracks([]);
