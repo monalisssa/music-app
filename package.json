@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://monalisssa.github.io/music-app",
+  "homepage": "https://monalisssa.github.io/music-app/",
   "private": true,
   "dependencies": {
     "@formsort/web-embed-api": "^2.6.1",
